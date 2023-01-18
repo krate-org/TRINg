@@ -1,0 +1,8 @@
+site_name: "TRING"
+site_description: "TRING"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core

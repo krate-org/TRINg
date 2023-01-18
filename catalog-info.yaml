@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "TRING"
+  description: "TRING"
+  annotations:
+    github.com/project-slug: 
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: service
+  lifecycle: experimental
+  owner: "Test Owner group|Kartheepan_Manickam@comcast.com"
